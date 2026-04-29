@@ -11,8 +11,11 @@ and assets is strictly prohibited.
 html {
     background-color: #040F16;
 }
-h1, p {
-    color: #C8ACD6
+h1, h2, h3 {
+    color: #C8ACD6;
+}
+p {
+    color: #ffffff;
 }
 footer {
     background-color: #005E7C;
